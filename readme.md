@@ -39,7 +39,7 @@ Follow these steps carefully:
 ### 1. Search for Directions on Google Maps
 - Go to Google Maps.
 - Enter the source and destination (e.g., **Adelaide City** to **Adelaide Airport**).
-![alt text](<google maps direction.jpg>)
+![alt text](<images/google maps direction.jpg>)
 
 
 ### 2. Click on the Details of the Road
@@ -47,7 +47,7 @@ Follow these steps carefully:
 - After getting the route, **click the "Details" button** on the route that you want to monitor.
 - Then **copy the URL** from the address bar.
 
-    ![alt text](<google maps url.jpg>)
+    ![alt text](<images/google maps url.jpg>)
 
 > 🔥 **Important:**  
 > You **must copy the URL after clicking the Details button**!  
@@ -129,7 +129,7 @@ long_run_df.to_csv("traffic_data_over_time.csv", index=False)
 
 ✅ **Example output:**  
 *(Sample DataFrame preview)*
-![alt text](<pandas dataframe.png>)
+![alt text](<images/pandas dataframe.png>)
 
 ---
 
